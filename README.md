@@ -7,7 +7,7 @@ Website:
 
 ## **░ Status**
 - June 6, 2016, `Database Merge`: User could access all the services provided using one registered account, which includes gaming services, BBS, group chat, and more.
-- February 8, 2018, `NetEase Integration`:   Operating on NetEase as a third party service provider. User `must` sign up for a [NetEase account](http://forums.netease-na.com/register/) to access the provided services.
+- February 8, 2018, `NetEase Integration`:   Operating on NetEase as a third party service provider. User **must** sign up for a [NetEase account](http://forums.netease-na.com/register/) to access the provided services.
 
 ## **░ Projects**
 -  [Open Source](https://pixeltimenet.github.io/Open_Source/)
