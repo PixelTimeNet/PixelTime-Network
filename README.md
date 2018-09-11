@@ -19,4 +19,4 @@ Website:
     September 2015 Average of daily unique IP visited reached 70,000
     December 2015 Network founded
     May 2015 Project started
-# <img src=".images/Sheet.png" alt="Status Sheet 1" align="center">
+# <img src="images/Sheet.png" alt="Status Sheet 1" align="center">
