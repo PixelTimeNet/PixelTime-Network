@@ -10,7 +10,7 @@ Website:
 - February 8, 2018, `NetEase Integration`:   Operating on NetEase as a third party service provider. User `must` sign up for a [NetEase account](http://forums.netease-na.com/register/) to access the provided services.
 
 ## **░ Projects**
--  [Open Source](https://github.com/PixelTimeNet/Open_Source)
+-  [Open Source](https://pixeltimenet.github.io/Open_Source/)
 
 ## **░ Milestone**
     January 2018 Partnered with NetEase Games and integrated network to NetEase's infrastructures
