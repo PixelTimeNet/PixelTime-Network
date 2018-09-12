@@ -20,4 +20,4 @@ Website:
     December 2015 Network founded
     May 2015 Project started
 
-![Stats Sheet 1]({{ "/images/Sheet.png" | absolute_url }})
+<img src="{{site.baseurl}}/images/Sheet.png">
