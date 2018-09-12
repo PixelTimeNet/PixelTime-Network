@@ -1,8 +1,8 @@
 title: PixelTime
 author: PixelTime
 email: PixelTime@vip.qq.com
-baseurl: "" 
-url: https://pixeltimenet.github.io/Introduction/
+url: https://pixeltimenet.github.io
+baseurl: "/Introduction" 
 github_username: PixelTimeNet
 
 # Build settings
