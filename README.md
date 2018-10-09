@@ -11,6 +11,7 @@ Website:
 
 ## **░ Projects**
 -  [Open Source](https://pixeltimenet.github.io/Open_Source/)
+-  [Jenkins](http://www.soulbound.me/)
 
 ## **░ Milestone**
     January 2018 Partnered with NetEase Games and integrated network to NetEase's infrastructures
