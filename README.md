@@ -22,4 +22,4 @@ Website:
     May 2015 Project started
 
 ## **░ Graph**
-<img src="{{site.baseurl}}/images/Sheet.png">
+<img src="https://github.com/PixelTimeNet/PixelTime-Network/blob/master/images/Sheet.png?raw=true">
