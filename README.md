@@ -2,8 +2,8 @@
 The network was started in May 2015, and officially founded in December 2015. The initiative is to provide a place for friends to play games and have fun.
 
 Website: 
-- [English](https://pixeltimenet.github.io/) (Translated by Google Translate)
-- [Simplified Chinese](http://www.mcxssg.net/)
+- [English]
+- [Simplified Chinese]
 
 ## **░ Status**
 - June 6, 2016, `Database Merge`: User could access all the services provided using one registered account, which includes gaming services, BBS, group chat, and more.
